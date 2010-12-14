@@ -1,0 +1,16 @@
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Release\MonstrousClipboard.exe.manifest
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Release\MonstrousClipboard.application
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Release\MonstrousClipboard.exe
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Release\MonstrousClipboard.pdb
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\ResolveAssemblyReference.cache
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.AboutForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.CustomEffectForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.MonsterClipboardForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.ShortcutDefineForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.Properties.Resources.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.csproj.GenerateResource.Cache
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.exe.manifest
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.application
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.exe
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Release\MonstrousClipboard.pdb
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Release\UserActivityHook.dll

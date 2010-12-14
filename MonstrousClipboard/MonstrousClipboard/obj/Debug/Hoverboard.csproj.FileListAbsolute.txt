@@ -1,0 +1,17 @@
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Debug\Hoverboard.exe.manifest
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Debug\Hoverboard.application
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Debug\Hoverboard.exe
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Debug\Hoverboard.pdb
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\bin\Debug\UserActivityHook.dll
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.AboutForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.CustomEffectForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.HoverboardForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.ShortcutDefineForm.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.Properties.Resources.resources
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.csproj.GenerateResource.Cache
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.TrustInfo.xml
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.exe.manifest
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.application
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.exe
+F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard\obj\Debug\Hoverboard.pdb

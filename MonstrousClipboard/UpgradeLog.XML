@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MonstrousClipboard">
+</Property><Property Name="Solution File" Value="F:\Development\C#\MonstrousHovercrafts\MonstrousClipboard\src\MonstrousClipboard\MonstrousClipboard.sln">
+</Property><Property Name="Date" Value="Friday, April 24, 2009">
+</Property><Property Name="Time" Value="16:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="MonstrousClipboard" Source="MonstrousClipboard\MonstrousClipboard.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MonstrousClipboard" Source="MonstrousClipboard\MonstrousClipboard.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MonstrousClipboard.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MonstrousClipboard.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MonstrousClipboard" Source="MonstrousClipboard\MonstrousClipboard.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

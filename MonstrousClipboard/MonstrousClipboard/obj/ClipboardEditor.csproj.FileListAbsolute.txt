@@ -1,0 +1,16 @@
+F:\Development\ClipboardEditor\ClipboardEditor\bin\Debug\ClipboardEditor.exe
+F:\Development\ClipboardEditor\ClipboardEditor\bin\Debug\ClipboardEditor.pdb
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ClipboardEditor.Form1.resources
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ClipboardEditor.Properties.Resources.resources
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ClipboardEditor.csproj.GenerateResource.Cache
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ClipboardEditor.exe
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Debug\ClipboardEditor.pdb
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ResolveAssemblyReference.cache
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ClipboardEditor.Form1.resources
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ClipboardEditor.Properties.Resources.resources
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ClipboardEditor.csproj.GenerateResource.Cache
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ClipboardEditor.exe
+F:\Development\ClipboardEditor\ClipboardEditor\bin\Release\ClipboardEditor.exe
+F:\Development\ClipboardEditor\ClipboardEditor\bin\Release\ClipboardEditor.pdb
+F:\Development\ClipboardEditor\ClipboardEditor\obj\Release\ClipboardEditor.pdb
